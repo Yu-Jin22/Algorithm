@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[31]:
-
-
 #110869
 a,b = map(int, input().split())
 print(a+b)
