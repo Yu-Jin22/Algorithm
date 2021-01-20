@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 #9498
 
 score = int(input())
@@ -18,4 +12,3 @@ elif score >= 60  :
     print('D')
 else : 
     print('F')
-
