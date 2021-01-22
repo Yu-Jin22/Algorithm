@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 #1110
 origin = n= int(input()) 
 count = 0
